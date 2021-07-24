@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import Sidebar from './components/Sidebar';
+import Footer from './components/Footer';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import home from './pages/home'
 import about from './pages/about'
@@ -18,7 +19,9 @@ function App(){
           <Route path= '/projects' component={projects}/>
           <Route path= '/contact' component={contact}/>
         </Switch>
+        <Footer /> 
       </Router>
+      
     </>
   );
 };

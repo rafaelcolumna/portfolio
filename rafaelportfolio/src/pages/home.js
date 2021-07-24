@@ -14,7 +14,7 @@ function home() {
                  </img>
             </div> 
             <div>
-            <h4 className='dicho'>I am built to listen to your needs.</h4>
+            <h4 className='dicho'>I am built to listen to your needs to succesfully develop your dream application.</h4>
             </div>
             <div className='button'>
            <Link to='/about'>  <button className='buttonH'> Learn More About Your Future 
