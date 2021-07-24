@@ -13,8 +13,9 @@
   height: 40vh;
   align-items: center;
   justify-content: center;
-  font-size: 3rem;
+  font-size: 4rem;
   background-color: #B0B2B5;
+  color:white;
 }
 
 .about, 
@@ -44,6 +45,7 @@
   background-color: #1a83ff;
   border-radius: 20px;
   float: center;
+  color:white;
 
 }
 
@@ -58,6 +60,7 @@
   font-size: larger;
   background-color: #1a83ff;
   border-radius: 20px;
+  color:white;
 }
 .buttonP{
   display:flex;
@@ -69,6 +72,7 @@
   font-size: larger;
   background-color: #1a83ff;
   border-radius: 20px;
+  color:white;
 }
 
 .description{

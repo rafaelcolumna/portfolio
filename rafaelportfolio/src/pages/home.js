@@ -10,7 +10,7 @@ function home() {
                 <h2>Welcome to</h2>
                 <img 
                 src="https://i.ibb.co/LC85wnS/Screen-Shot-2021-07-20-at-4-36-28-PM-removebg-preview-1.png"
-                height='280' width='280'> 
+                height='350' width='350'> 
                  </img>
             </div> 
             <div>
